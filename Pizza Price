@@ -1,0 +1,18 @@
+package assesment;
+
+public class PizzaPrice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+         int price = 200 ;
+         if(price>=200)
+         {
+        	 System.out.print("PIZZA CAN BE BOUGHT ");
+         }
+         else
+         {
+        	 System.out.print("PIZZA CANT BE BOUGHT");
+         }
+	}
+
+}
